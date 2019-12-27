@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097188263930",
+    "firebase_url": "https://cewfirebaseproject.firebaseio.com",
+    "project_id": "cewfirebaseproject",
+    "storage_bucket": "cewfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097188263930:android:d7690223c5e85f17e30643",
+        "android_client_info": {
+          "package_name": "com.h.cew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097188263930-06f2cr9iqtkmu9qs824kghscqmri2c19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.h.cew",
+            "certificate_hash": "88b40a88515bce06aed877a0bbe80a91af00d8a0"
+          }
+        },
+        {
+          "client_id": "1097188263930-4shqspgtl008jpbubhego75kgm9h60gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AK9oaP6gKUSdrrBViDFLUfipBC61M14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097188263930-4shqspgtl008jpbubhego75kgm9h60gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
