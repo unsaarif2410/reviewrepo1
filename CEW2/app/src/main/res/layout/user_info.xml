@@ -5,8 +5,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+
         android:id="@+id/userInfo"
-        android:textSize="50dp"/>
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25sp"/>
+
 
 
 </LinearLayout>
